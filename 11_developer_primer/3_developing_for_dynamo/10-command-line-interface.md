@@ -1,8 +1,11 @@
 # Dynamo Command Line Interface
 
+<div style="overflow-x: auto;">
+
 ***
       -o, -O, --OpenFilePath        Instruct Dynamo to open a command file and run the commands it contains at 
                                     this path, this option is only supported when run from DynamoSandbox
+
 ***
       -c, -C, --CommandFilePath     Instruct Dynamo to open a command file and run the commands it contains at 
                                     this path, this option is only supported when run from DynamoSandbox                      
@@ -45,6 +48,7 @@
 ***
       --ServiceMode                 Specify the service mode startup
 
+</div>
 
 #### Why 
  You might want to control Dynamo from the command line for various reasons, these might include: 
